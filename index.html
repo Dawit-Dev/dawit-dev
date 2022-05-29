@@ -6,10 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link href="index.css" rel="stylesheet" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
   </head>
   <body>
     <header>
-      <div class="logo">
+      <div id="top" class="logo">
         <img src="./image/download (1).png" />
       </div>
       <div class="nav_bar">
@@ -20,10 +24,11 @@
           <li><a href="about.html">About</a></li>
         </ul>
       </div>
+      
     </header>
     <main class="main">
       <section>
-          <div class="text-box">
+        <div class="text-box">
           <span>O</span>
           <span>R</span>
           <span>I</span>
@@ -38,8 +43,8 @@
             <img class="carousel" id="image_1" />
             <br />
 
-            <button id="previous"><strong>&#10594;</strong></button>
-            <button id="next"><strong>&#10596;</strong></button>
+            <button id="previous"><strong>&#171;</strong></button>
+            <button id="next"><strong>&#187;</strong></button>
           </div>
         </div>
 
@@ -60,7 +65,14 @@
           </p>
         </div>
       </section>
+      <div class="go">
+        <a href="#top">Go to top</a>
+      </div>
     </main>
+    <footer class="footer">
+      <i class="fa fa-github" style="font-size: 48px"></i>
+      <i class="fa fa-linkedin-square" style="font-size: 48px"></i>
+    </footer>
 
     <script src="index.js"></script>
   </body>
