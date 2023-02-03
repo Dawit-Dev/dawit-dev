@@ -1,4 +1,4 @@
-I've  been always passionate about software development.  I've joined Code Your Future to become a Full Stack developer, I have learned HTML, CSS, JavaScript, version control, Github, React, Node JS, and PostgreSQL for the past 10 months. Using the aforementioned technologies, I have created fully functional websites. Along with the technical skills, I have also improved my teamwork, communication, and time management skills.
+ I am Dawit Abraha, Full Stack Developer
 
 <!--
 **Dawit-Dev/dawit-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
