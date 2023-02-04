@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 ![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawit-Dev&show_icons=true&theme=radical)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawit-Dev&exclude_repo=Dawit-Dev/Full-Stack-Project-Assessment,Dawit-Dev.github.io)](https://github.com/Dawit-Dev/github-readme-stats)
+![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawit-Dev&show_icons=true&theme=radical)
