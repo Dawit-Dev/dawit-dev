@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :hammer_and_wrench: Languages and Tools :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawit-Dev&hide=ruby,)](https://github.com/Dawit-Dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawit-Dev&hide=ruby,shell)](https://github.com/Dawit-Dev/github-readme-stats)
 
 ![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawit-Dev&show_icons=true&theme=radical)
  
