@@ -1,4 +1,4 @@
- I am Dawit Abraha, Full Stack Developer
+ My name is Dawit Abraha, Full Stack Developer
 
 <!--
 **Dawit-Dev/dawit-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
