@@ -1,28 +1,7 @@
-<!--  My name is Dawit Abraha, Full Stack Developer
-
-<!--
-**Dawit-Dev/dawit-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### :hammer_and_wrench: Languages and Tools :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawit-Dev&hide=ruby)](https://github.com/Dawit-Dev/github-readme-stats)
-
-![Dawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawit-Dev&show_icons=true&theme=radical) -->
- 
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://dawit-dev.io)
 <h1 align="center">Hi 👋, I'm Dawit Abraha</h1>
 <h3 align="center">A passionate full stack developer.</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://media4.giphy.com/media/A06UFEx8jxEwU/200.webp?cid=ecf05e47oygf562t4d3nclnwaw84viq46klzc356czcfw5fs&rid=200.webp&ct=g”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawit-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dawit-dev" /> </p>
 
